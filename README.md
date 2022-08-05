@@ -1,11 +1,11 @@
-# [Flex] Phase 1 Project Review Guidelines
+# SCF - Phase 1 Project Review Guidelines
 
 ## Project Requirements
 
 Make sure your project meets all the project requirements. Here's a link to the
 project guidelines:
 
-- [Phase 1 Project Guidelines](https://github.com/learn-co-curriculum/phase-1-javascript-project-mode)
+- [Phase 1 Project Guidelines](https://my.learn.co/courses/514/pages/phase-1-project-guidelines?module_item_id=57207)
 
 We also expect you to complete the following items prior to scheduling the
 review:
@@ -15,13 +15,13 @@ review:
   template can be found here: [makeareadme.com](https://www.makeareadme.com/).
   Some additional considerations:
   - If you used someone else's pictures or material please make sure you give
-  them credit in your README.
+    them credit in your README.
   - If you think your blog post and/or video are really good and would add
-  value, add them to your README.md.
+    value, add them to your README.md.
   - If you want to go above and beyond, record a few seconds of yourself
-  navigating the app and turn it into a gif. Then, add the gif in your
-  README.md. That way anyone can get a sense of how your app works without
-  leaving the README's page on GitHub!
+    navigating the app and turn it into a gif. Then, add the gif in your
+    README.md. That way anyone can get a sense of how your app works without
+    leaving the README's page on GitHub!
 - **[GITHUB REPOSITORY]: A detailed commit history (30+ commits is your minimum
   goal)**. Committing frequently is a fundamental best practice that you want to
   acquire as soon as possible. One day you will be collaborating on projects and
@@ -38,34 +38,25 @@ review:
 - **A blog post about this phase of the curriculum**. This will serve as one of
   the seven blogs you are required to complete to graduate from Flatiron School.
   The blog post MUST meet the following requirements:
+
   - Each blog must be at least 750 words, which is an approximately 3-5 minute
-read on a blogging platform.
+    read on a blogging platform.
   - Blogs must be about a technical aspect related to the curriculum Phase.
   - Blog topics may be related to your project but this is not required or
-expected.
+    expected.
   - Your blog must include code snippets or screenshots.
   - If you need support on grammar, we encourage you to use a grammar service
-such as www.grammarly.com or something similar.
+    such as www.grammarly.com or something similar.
 
   Please use these [Guidelines][blog-guidelines] and [Tips][blog-tips] for
-reference as you start blogging!
+  reference as you start blogging!
 
 [blog-guidelines]: https://docs.google.com/document/d/1khn8xGYEWzNrWI-N1Mxhdtk-rd3dTiIteOoDsTXOVZI/edit
 [blog-tips]: https://docs.google.com/document/d/1i6NqCgYZd9DC25Om9agZ4lX-U_7DmjH0ZTBpOWMAn9Q/edit
 
 ## Scheduling Your Review
 
-To schedule your review, go to
-[https://go.oncehub.com/PhaseOneJavascriptProjectReview][review] and select an
-available date and time on the scheduling site. Do not book an appointment with
-your assigned Cohort Lead — be sure to choose another reviewer.
-
-Please make sure you have satisfied all the requirements listed in the project
-requirements page (linked at the top of the page) before scheduling the meeting.
-These required components must be completed, submitted in Canvas, and submitted
-in ScheduleOnce or your project review will be canceled by the reviewer.
-
-[review]: https://go.oncehub.com/PhaseOneJavascriptProjectReview
+Your instructor will coordinate when your review will take place.
 
 ## What To Expect From the Project Review
 
@@ -111,9 +102,9 @@ of you:
 - You must meet the project requirements as follows or your project review will
   be canceled prior to taking place:
   - All project requirements
-  - Github link submitted on Canvas and ScheduleOnce
-  - Blog link submitted on Canvas and ScheduleOnce
-  - Video link submitted on Canvas and ScheduleOnce
+  - Github link submitted on Canvas
+  - Blog link submitted on Canvas
+  - Video link submitted on Canvas
   - A good quality README
   - Blog must address a technical topic and be at least a 3 minute read
   - Video must not exceed 3 minutes in length
